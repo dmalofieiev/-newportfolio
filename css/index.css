@@ -1,0 +1,125 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.banner {
+  height: 400px;
+  background-color: #7fbcd2;
+  text-align: center;
+  padding-bottom: 70px;
+}
+
+.hello {
+  font-size: 75px;
+  font-family: "Nanum Gothic Coding", monospace;
+  padding-top: 75px;
+  margin: 0;
+}
+
+.profilePicture {
+  width: 200px;
+  height: 200px;
+  border: 8px solid black;
+  border-radius: 100%;
+  margin-top: 35px;
+  margin-bottom: 0;
+}
+
+.perInfo {
+  background-color: #a5f1e9;
+  padding-top: 30px;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.myname {
+  margin: 0;
+  text-align: center;
+  padding: 30px;
+  text-shadow: 3px 3px #616161;
+}
+
+h3 {
+  font-family: "Roboto", sans-serif;
+}
+
+.about {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 30px;
+  color: rgb(80, 80, 80);
+}
+
+h2 {
+  text-shadow: 3px 3px #616161;
+  font-size: 40px;
+  margin: 0;
+  padding: 0;
+  font-family: "Raleway", sans-serif;
+}
+
+.experience {
+  background-color: #e1ffee;
+  text-align: center;
+  height: 300px;
+  padding-top: 50px;
+  padding-bottom: 110px;
+}
+
+table {
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ex {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.demoimg {
+  border: 5px solid #7fbcd2;
+  border-radius: 10%;
+  width: 200px;
+  height: 200px;
+  opacity: 0.5;
+}
+
+.demoimg:hover {
+  opacity: 1;
+}
+
+.social {
+  text-align: center;
+  padding: 70px 0 70px 0;
+  background-color: #ffeeaf;
+}
+
+i {
+  color: black;
+  margin: 30px;
+}
+
+i:hover {
+  opacity: 0.5;
+}
+
+.copy {
+  font-family: "Nunito", sans-serif;
+  font-size: 30px;
+  color: rgb(172, 172, 172);
+}
+
+div.transbox {
+  margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid rgb(99, 99, 99);
+  opacity: 0.6;
+}
+
+div.transbox p {
+  margin: 2%;
+  color: #000000;
+}
